@@ -153,7 +153,7 @@ class TimeInterpolatorActivity : AppCompatActivity(), TimeInterpolatorAdapter.Cl
         interpolatorList.add(
             TimeInterpolatorBean(
                 false,
-                "CycleInterpolator(1)",
+                "CycleInterpolator",
                 CycleInterpolator(1F)
             )
         )
